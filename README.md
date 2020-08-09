@@ -10,3 +10,4 @@ Maintaining a complex machine is a very tedious task. It involves a lot of manpo
 
 Overall, this project achieved an accuracy of 98.89%. Below is the snapshot of the probability that the engine number 14 will fail within the next 30 days. It is seen that there is a 11% probability that the machine will fail. Plant users may need to be precautionary when the probability is more than 50%.
 
+![Results](https://github.com/Vigneshsab/Predicting-failure-of-Turbofan-using-LSTM/blob/master/results.PNG)
